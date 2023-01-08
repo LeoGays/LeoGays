@@ -56,3 +56,5 @@
 
 [Игра по правилам Event loop в Node.js](https://habr.com/ru/company/lineate/blog/585050/)
 
+[Как сделать трек на ИТ-конференции в меняющихся условиях и при этом не упустить работу: опыт организатора](https://habr.com/ru/company/redmadrobot/blog/701030/)
+
