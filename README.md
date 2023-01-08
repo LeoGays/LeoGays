@@ -9,4 +9,5 @@
       <img src="https://img.shields.io/badge/Telegram-Channel-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Telegram Chanel"/>
     </a>  
   </div>
+  <img src="https://komarev.com/ghpvc/?username=LeoGays&style=flat-square&color=blue" alt=""/>
 </div>
